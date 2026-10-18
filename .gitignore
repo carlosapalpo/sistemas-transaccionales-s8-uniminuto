@@ -1,0 +1,5 @@
+target/
+.env
+*.jfr
+*.log
+sql/backup_resultados_s8.sql
